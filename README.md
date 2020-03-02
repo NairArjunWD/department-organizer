@@ -6,6 +6,9 @@ To Do:
 
 * Backend
 * * Ruby
+* * Rails
+* * SQL
+* * MongoDB
 
 * Fontend
 
