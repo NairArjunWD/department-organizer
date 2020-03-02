@@ -1,24 +1,11 @@
-# README
+# Department Organizer
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a department organizer app to help companies organize their departments and fix those that have a loose corporate structure.
 
-Things you may want to cover:
+To Do:
 
-* Ruby version
+* Backend
+* * Ruby
 
-* System dependencies
+* Fontend
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
